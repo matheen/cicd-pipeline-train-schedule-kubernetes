@@ -9,7 +9,7 @@ spec:
   ports:
   - protocol: TCP
     port: 9091
-    targetport:9090
+    targetPort: 9090
     nodePort: 30090
 
 ---
